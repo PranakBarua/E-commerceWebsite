@@ -70,3 +70,7 @@ footer{
 .banner-sec{
     padding-left: 50px;
 }
+.carousel-indicators li{
+    background-color:orange;
+    height: 5px;
+}
