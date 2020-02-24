@@ -1,0 +1,72 @@
+.container{
+    margin-bottom: 60px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+.banner-p p{
+    color: gray;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+    border-radius: 20px;
+}
+.card-body{
+    text-align: center;
+}
+.card-footer{
+    text-align: center;
+}
+.orange-view{
+    color: orange;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.carousel-control-prev{
+    color: tomato;
+}
+.laptop-sec, .smartphone-sec{
+    margin-bottom: 30px;
+    padding-left: 50px;
+}
+.categories{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.category{
+    border-bottom: 5px solid orange;
+    border-radius: 3px;
+}
+.images-1, .images-2, .images-3 {
+    padding: 40px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px 5px 30px 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.subscribe{
+    height: 300px;
+}
+.subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.submit-button{
+    margin-top: 5px;
+}
+.banner-sec{
+    padding-left: 50px;
+}
